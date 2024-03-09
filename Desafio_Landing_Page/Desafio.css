@@ -24,7 +24,7 @@
      background-image: url("pexels-weldi-studio-design-8675548\ \(1080p\).gif");
      background-size: cover;
      background-position: center center;
-     
+
  }
  
  .corpo{
@@ -39,6 +39,9 @@
      justify-content: center;
      border-radius: 20px;
      padding: 0;
+
+
+     
      
      
  }
@@ -192,7 +195,7 @@
      border-top-left-radius: 20px;
      border-bottom-left-radius: 20px;
      
- }
+}
  
  #menus{
  
