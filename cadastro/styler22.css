@@ -55,7 +55,7 @@ body {
     display: grid;
     grid-template-columns: 60% 40%;
     grid-template-rows: auto;
-    grid-template-areas: "foto login login" ;
+    grid-template-areas: "foto login" ;
     gap: 0px;
     margin-left: 0%;
     padding-left: 0;
@@ -206,4 +206,39 @@ body {
     border-bottom: 1px solid black;
     
 }
-
+@media screen and (max-width: 768px) {
+    
+    :root{
+        display: block;
+        margin: 0;
+        padding: 0%;
+    }
+    body {
+       font-size: 20px;
+       margin: 0px;
+    }
+    .header {
+       display: none;
+    }
+    .container{
+        display: block;
+        margin-left: 0%;
+        margin-right: 0%;
+        padding: 0%;
+    }
+    .corpo{
+        margin: 0%;
+        padding: 0%;
+        margin-bottom: 10%;
+        margin-top: 20%;
+        margin-left: 5%;
+        margin-right: 5%;    }
+    .form{
+        margin: 0%;
+        margin-bottom: 4%;
+    }
+    .img{
+        height: 100%;
+        width: 100%;
+    }
+}  
