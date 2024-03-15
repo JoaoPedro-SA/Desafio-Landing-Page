@@ -65,10 +65,10 @@ body {
     height: 100%;
     width: 100%;
     display: grid;
-    grid-template-columns: 40% 50%;
+    grid-template-columns: 40% 60%;
     grid-template-rows: auto ;
     grid-template-areas: "login foto " ;
-    gap: 10px;
+    gap: 0px;
     margin-left: 0%;
     padding-left: 0%;
     margin-right: 0%;
@@ -77,7 +77,7 @@ body {
     margin-bottom: 0%;
     padding-bottom: 0%;
     border-radius: 15px;
-    gap: 50px;
+    gap: 0px;
 
 }
 
