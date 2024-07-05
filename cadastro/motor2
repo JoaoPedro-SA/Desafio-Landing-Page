@@ -1,3 +1,0 @@
-var video = document.querySelector("video");
-
-video.play(Animation);

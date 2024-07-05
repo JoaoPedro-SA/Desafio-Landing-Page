@@ -232,5 +232,9 @@ body {
     .img{
         height: 300px;
         width: 300px;
+        border-radius: 20px;
+    }
+    .foto{
+        border-radius: 20px;
     }
 }  

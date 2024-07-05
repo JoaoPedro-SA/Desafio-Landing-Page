@@ -240,5 +240,16 @@ body {
     .img{
         height: 100%;
         width: 100%;
+        border-radius: 0px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+    .foto{
+        border-radius: 20px;
+    }
+    .login{
+        border-radius: 0px;
+        border-bottom-left-radius: 20px ;
+        border-bottom-right-radius: 20px ;
     }
 }  
