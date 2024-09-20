@@ -2,7 +2,7 @@
 
 Esse projeto tem o foco de ser uma imitação da Landing Page mostrado na foto abaixo 👇 como desafio
 
-<img src="https://github.com/user-attachments/assets/4a8ec2dd-d706-4484-9a15-ec177723b217" height="500em" width="700em"> <br>
+<img src="https://github.com/user-attachments/assets/4a8ec2dd-d706-4484-9a15-ec177723b217" height="500%" width="700%"> <br>
 ### Ferramentas utilizadas foi
 * HTML 5
 * CSS 3
